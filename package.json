@@ -1,0 +1,15 @@
+{
+  "name": "tsetmc_client",
+  "description": "TSETMC Api Client",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Ali Ghalambaz",
+      "email": "a.ghalambaz@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "merge": "^1.2.0",
+    "soap": "^0.21.0"
+  }
+}
